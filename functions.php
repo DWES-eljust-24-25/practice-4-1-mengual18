@@ -31,3 +31,4 @@ function validateContact(array $contact): array {
     return $errors;
 }
 ?>
+
